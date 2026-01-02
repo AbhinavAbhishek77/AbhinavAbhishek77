@@ -58,36 +58,96 @@ B.Tech Graduate (2025) | Software Engineer | MERN Stack Developer | Competitive 
 
 ---
 
-### 🚀 Featured Projects
 
-#### 🔗 **StudyZone – EdTech Platform**
-> 🎓 A full-stack learning platform built for students and instructors
+## 📌 Featured Projects
 
-[🌐 Live](https://studyzone-live-link.com) • [💻 GitHub](https://github.com/your-repo-link)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🔐 Secure **JWT-based authentication**
-- 📚 Complete **course management system (CRUD)**
-- 💬 Interactive tools for students and instructors
-- ☁️ Media storage and handling using Cloudinary
+### 🎨 AI Comic Strip Creator  
+<img src="https://raw.githubusercontent.com/AbhinavAbhishek77/AI-Comic-Strip-Creator/main/assets/demo.gif" width="100%" alt="AI Comic Strip Creator Demo"/>
 
-**⚙️ Tech Stack:**  
-`React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Mongoose` `Cloudinary`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
+![StableDiffusion](https://img.shields.io/badge/Stable_Diffusion-4A4A4A?style=flat)
 
----
+🧠 AI tool that turns a **single text prompt** into a **complete comic strip** with panels and dialogue.
 
-#### 🔗 **Shopping Cart Application**
-> 🛒 Modern shopping cart with smooth state management
+- ✍️ GPT-4 (via LangChain) generates story & dialogue  
+- 🖼️ Stable Diffusion creates comic-style images  
+- 🧹 spaCy cleans and structures text  
+- ⚙️ FastAPI backend with Streamlit UI  
 
-[🌐 Live](https://shoppingcart-live-link.com) • [💻 GitHub](https://github.com/your-repo-link)
+[💻 GitHub Repo 🚀](https://github.com/AbhinavAbhishek77/AI-Comic-Strip-Creator)
 
-- 🧭 Browse products with a clean, responsive UI
-- ➕ Add, remove, and update item quantities
-- ⚡ Fast global state handling using Redux Toolkit
+</td>
+<td width="50%" valign="top">
 
-**⚙️ Tech Stack:**  
-`React.js` `JavaScript` `Redux Toolkit` `Tailwind CSS`
+### 🎓 StudyZone — EdTech Platform  
+<img src="https://raw.githubusercontent.com/AbhinavAbhishek77/StudyZone-Host5/main/assets/demo.gif" width="100%" alt="StudyZone Demo"/>
 
----
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat)
+
+📚 Full-stack **MERN EdTech platform** for students and instructors.
+
+- 🔐 Secure JWT authentication  
+- 📝 Course creation, update & enrollment (CRUD)  
+- 🤝 Instructor–student collaboration  
+- ☁️ Media storage via Cloudinary  
+
+[🌐 Live Demo 🌍](https://studyzone-edtech-project10.vercel.app/)  
+[💻 GitHub Repo 🚀](https://github.com/AbhinavAbhishek77/StudyZone-Host5)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Shopping Cart Web App  
+<img src="https://raw.githubusercontent.com/AbhinavAbhishek77/shopping-cart-app/main/assets/demo.gif" width="100%" alt="Shopping Cart Demo"/>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+🛍️ Responsive shopping cart with predictable state management.
+
+- ➕ Add / remove items instantly  
+- 🔢 Quantity control using Redux Toolkit  
+- 📱 Clean, mobile-friendly UI  
+
+[🌐 Live 🌍](https://shopping-cart-app10.vercel.app/)  
+[💻 GitHub Repo 🚀](https://github.com/AbhinavAbhishek77/shopping-cart-app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Abhinav’s Portfolio Website  
+<img src="https://raw.githubusercontent.com/AbhinavAbhishek77/AbhinavAbhishek77/main/assets/portfolio.gif" width="100%" alt="Portfolio Demo"/>
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+✨ Clean, fast portfolio showcasing projects and skills.
+
+- ⚡ Lightweight and quick load times  
+- 📱 Fully responsive design  
+- 🧭 Simple and clear navigation  
+
+[🌐 Visit Website ✨](https://abhinav-portfolio-steel.vercel.app/)
+
+</td>
+</tr>
+</table>
+
 
 ### 🐍 GitHub Contributions
 
