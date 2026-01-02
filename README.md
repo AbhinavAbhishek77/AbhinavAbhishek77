@@ -151,11 +151,7 @@ B.Tech Graduate (2025) | Software Engineer | MERN Stack Developer | Competitive 
 </table>
 
 
-### 🐍 GitHub Contributions
 
-![GitHub contribution snake](https://raw.githubusercontent.com/AbhinavAbhishek77/AbhinavAbhishek77/output/github-snake.gif)
-
----
 
 ### 📊 GitHub Stats
 
