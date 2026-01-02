@@ -153,16 +153,16 @@ B.Tech Graduate (2025) | Software Engineer | MERN Stack Developer | Competitive 
 
 ### 🐍 GitHub Contributions
 
-![GitHub contribution snake](https://raw.githubusercontent.com/AbhinavAbhishek77/AbhinavAbhishek77/output/dist/github-snake.gif)
+![GitHub contribution snake](https://raw.githubusercontent.com/AbhinavAbhishek77/AbhinavAbhishek77/output/github-snake.gif)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavAbhishek77&show_icons=true&theme=dark" width="48%" />
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavAbhishek77&show_icons=true&theme=dark&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavAbhishek77&layout=compact&theme=dark" width="48%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavAbhishek77&theme=dark" width="96%" />
