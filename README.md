@@ -13,8 +13,6 @@ B.Tech Graduate (2025) | Software Engineer | MERN Stack Developer | Competitive 
 
 ---
 
-### 👨‍💻 About Me
-
 - 🎓 B.Tech in **Electrical Engineering** from **NIT Agartala** (CGPA: **8.71**)
 - 💼 Software Engineer with strong interest in **Full-Stack Development**
 - 🧠 Enjoy solving problems and building real-world applications
@@ -36,19 +34,23 @@ B.Tech Graduate (2025) | Software Engineer | MERN Stack Developer | Competitive 
   <a href="https://github.com/AbhinavAbhishek77" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://leetcode.com/u/AbhinavAbhishek/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.geeksforgeeks.org/user/123abhinavw1jd/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.codechef.com/users/abhinav2021" target="_blank">
     <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" height="30" width="40" />
   </a>
 </p>
+
 
 ---
 
