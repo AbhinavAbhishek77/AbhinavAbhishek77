@@ -5,7 +5,7 @@
 B.Tech Graduate (2025) | Software Engineer | MERN Stack Developer | Competitive Programmer
 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNtc2t0ZXBjdGlvbzUxenU2eTR1dWV1amptNWR6eXN6ZGFqaGxxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPWXYMP4t2ODvzwOYk/giphy.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AbhinavAbhishek77&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
