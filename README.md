@@ -12,10 +12,10 @@ B.Tech Graduate (2025) | Software Engineer | MERN Stack Developer | Competitive 
 </p>
 
 ---
-
-- 🎓 B.Tech in **Electrical Engineering** from **NIT Agartala** (CGPA: **8.71**)
+- 💼 Software Engineer @ CES
+- 🎓 B.Tech from **NIT Agartala** (CGPA: **8.71**)
 - 💼 Software Engineer with strong interest in **Full-Stack Development**
-- 🧠 Enjoy solving problems and building real-world applications
+- 🧠 Enjoy solving problems and building real world applications
 - 🤝 Open to collaborating on **MERN stack** and **backend-focused** projects
 
 ---
