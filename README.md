@@ -151,17 +151,51 @@ B.Tech Graduate (2025) | Software Engineer | MERN Stack Developer | Competitive 
 </table>
 
 
+---
 
 
-### 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavAbhishek77&show_icons=true&theme=dark&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavAbhishek77&layout=compact&theme=dark" width="48%" />
-</p> -->
 
+## 📊 GitHub Activity & Profile Overview
+
+<!-- Streak / Activity Summary -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavAbhishek77&theme=dark" width="96%" />
+  <img 
+    src="https://streak-stats.demolab.com?user=AbhinavAbhishek77&theme=dark&hide_border=true" 
+    width="70%" 
+  />
 </p>
+
+<br/>
+
+<!-- Profile Details -->
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhinavAbhishek77&theme=github_dark" 
+    width="95%" 
+  />
+</p>
+
+<br/>
+
+<!-- Language Breakdown -->
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhinavAbhishek77&theme=github_dark" 
+    width="45%" 
+  />
+  &nbsp;&nbsp;
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhinavAbhishek77&theme=github_dark" 
+    width="45%" 
+  />
+</p>
+
+
+
+
+
+
+
 
 
