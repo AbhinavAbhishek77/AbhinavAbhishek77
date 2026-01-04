@@ -36,7 +36,7 @@ B.Tech Graduate (2025) | Software Engineer | MERN Stack Developer | Competitive 
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://leetcode.com/u/kalki_0/" target="_blank">
+  <a href="https://leetcode.com/u/abhinavabhishek/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
